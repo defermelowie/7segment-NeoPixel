@@ -1,0 +1,4 @@
+segment_display	KEYWORD1
+color	KEYWORD2
+write	KEYWORD2
+begin	KEYWORD2
